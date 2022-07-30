@@ -1,4 +1,9 @@
 .cabecalho {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	box-sizing:	border-box;
+
 	text-align: center;
 	font-size: 0.6rem;
 	font-weight: bold;
@@ -6,7 +11,6 @@
 	letter-spacing: 0.23em;
 
 	color: #fff;
-    background-color:	#2D5377;
 }
 
 .cabecalho__logo {
